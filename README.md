@@ -1,1 +1,1 @@
-# visdial-tf
+# Tensorflow code for Visual Dialog
